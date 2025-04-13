@@ -1,0 +1,31 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Amani Mern Project",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "date-fns": "^4.1.0",
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaniboussaa/mern_stack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amaniboussaa/mern_stack/issues"
+  },
+  "homepage": "https://github.com/amaniboussaa/mern_stack#readme"
+}
