@@ -19,3 +19,13 @@ npm version 10.9.2
 6- create .gitignore file
 7- create server.js file
 8- npm run dev
+
+//LESSON 2 : middleware
+1- add logs folder and add it to .gitignore
+2- npm i date-fns uuid 
+3- add folder middleware / logger.js
+4-  npm i cookie-parser //**custom middleware
+**cors**
+5- npm i cors
+6- creat af older: config/allowedOrigins.js
+
