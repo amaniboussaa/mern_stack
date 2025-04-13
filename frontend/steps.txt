@@ -1,0 +1,17 @@
+1- npx create-react-app frontend
+2- cd frontend
+3- npm start
+4- npm i react-router-dom
+5-add route to indes.js
+6- create folder src/components
+7- create file src/components/Layout.js
+
+rafce tab ==> to create the code of a components
+8- add outlet to layout.js
+9 add layout to app.js
+10- add link to components/public.js
+11- import public componet in app.js
+12- create login component
+13- import login componet in app.js
+
+npm i @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
