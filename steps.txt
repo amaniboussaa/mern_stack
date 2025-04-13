@@ -36,4 +36,11 @@ npm version 10.9.2
 4- npm i mongoose-sequence
 5- dbConn.js
 
+//lesson 4 : Controllers
+1- create routes/userRoutes.js
+2- add it to server.js
+3- add controller/usersController.js
+4- npm i express-async-handler bcrypt
+5- in Content-Type postman add application/json
+
 
