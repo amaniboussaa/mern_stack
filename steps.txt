@@ -29,3 +29,11 @@ npm version 10.9.2
 5- npm i cors
 6- creat af older: config/allowedOrigins.js
 
+//lesson 3 : MongoDB
+1- npm i dorenv
+2- npm i mongoose
+3- create "models" folder then Users.js
+4- npm i mongoose-sequence
+5- dbConn.js
+
+
