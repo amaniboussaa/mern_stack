@@ -1,0 +1,21 @@
+olution: Change the PowerShell execution policy
+Open PowerShell as Administrator
+
+Click Start → search PowerShell
+
+Right-click → "Run as administrator"
+
+Run this command to allow script execution temporarily:
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
+1- install nodejs ==> https://nodejs.org/en
+node version: v22.14.0
+npm version 10.9.2
+2- npm init -y  ==> it creates package.json
+3- npm i express
+4- npm i nedemon -D => devDependencies:it continue run our code with saved changes
+5 change package.json : descriptin/scripts/main
+6- create .gitignore file
+7- create server.js file
+8- npm run dev
